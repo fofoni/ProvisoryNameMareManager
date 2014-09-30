@@ -1,5 +1,5 @@
-ProvisoryNameMareManager
-========================
+Provisory Name Maré Manager
+===========================
 
 Projeto de Banco de Dados Para Software Livre e Gerenciamento de Projetos da UFRJ, 2014/2.
 
